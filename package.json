@@ -41,8 +41,8 @@
     "npm": "^5.7.1",
     "path-is-absolute": "^1.0.0",
     "semver": "^5.0.1",
-    "digicoind-rpc": "^0.0.4",
-    "digicoincore-lib": "^0.0.2",
+    "digicoind-rpc": "https://github.com/digicoinofficial/digicoind-rpc.git",
+    "digicoincore-lib": "https://github.com/digicoinofficial/digicoincore-lib.git",
     "socket.io": "^1.4.5",
     "socket.io-client": "^1.4.5",
     "zmq": "^2.14.0"
